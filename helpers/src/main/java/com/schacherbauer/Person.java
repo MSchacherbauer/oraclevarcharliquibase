@@ -1,4 +1,4 @@
-package com.schacherbauer.oraclevarchar;
+package com.schacherbauer;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

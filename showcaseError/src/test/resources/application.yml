@@ -1,4 +1,0 @@
-spring:
-  liquibase:
-    change-log: changelog.yml
-    drop-first: true

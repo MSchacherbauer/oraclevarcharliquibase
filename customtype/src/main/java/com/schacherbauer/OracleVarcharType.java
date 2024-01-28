@@ -1,4 +1,4 @@
-package com.schacherbauer.oraclevarchar;
+package com.schacherbauer;
 
 import liquibase.database.Database;
 import liquibase.database.core.HsqlDatabase;

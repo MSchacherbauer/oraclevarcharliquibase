@@ -1,4 +1,4 @@
 spring:
   liquibase:
-    change-log: changelog.yml
+    change-log: person-changelog.yml
     drop-first: true

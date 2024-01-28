@@ -1,4 +1,4 @@
-package com.schacherbauer.oraclevarchar;
+package com.schacherbauer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

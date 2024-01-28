@@ -1,10 +1,8 @@
-package com.schacherbauer.oraclevarchar;
+package com.schacherbauer;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.assertj.core.api.Assertions.assertThatNoException;
 
-import com.schacherbauer.Person;
-import com.schacherbauer.PersonRepository;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
